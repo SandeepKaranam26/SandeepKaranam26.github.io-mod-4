@@ -1,6 +1,6 @@
 var names=new Array();
 names[0]="Yaakov";
-names[1]="Sandeep Karanam";
+names[1]="john";
 names[2]="Jen";
 names[3]="jason";
 names[4]="paul";
